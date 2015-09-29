@@ -1,0 +1,1 @@
+Clone makes a copy of the repository including all its structure and contents to another location.
