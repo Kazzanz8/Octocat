@@ -1,0 +1,1 @@
+Upstream remote is used to denote teh direction of the update to a remote repository. If it is upstream it will be toward the central source or repository.
