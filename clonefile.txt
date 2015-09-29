@@ -1,1 +1,0 @@
-To clone a repository in GitHub (or Git) is to take a copy of it as at that point in time and copy it to another location in the same structure, same files, same log.
