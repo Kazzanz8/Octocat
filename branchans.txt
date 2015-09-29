@@ -1,0 +1,1 @@
+A branch puts a placeholder in the master, and says ok, any changes from here on I want you to just hold off to the side, in a new chain or structure of files. The branch will be linked back to the master at a point.
