@@ -1,0 +1,1 @@
+A branch as it applies to git is a stream of files or directories that are all related to each other, but only one of them is linked to the master repository. The way the files connect back to the central repository is along the branch or path.
